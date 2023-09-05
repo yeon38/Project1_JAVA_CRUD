@@ -36,6 +36,5 @@ public class WordCRUD implements ICRUD{
         return 0;
     }
     public void selectOne(int id) {
-
     }
 }

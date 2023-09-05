@@ -6,7 +6,6 @@ public class Main {
         // TODO Auto-generated method stub
         System.out.println("Hello world 안녕");
         new WordManager().Start();
-
     }
 
 }
