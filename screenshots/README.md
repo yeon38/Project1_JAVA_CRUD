@@ -1,7 +1,10 @@
 # Project1_JAVA_CRUD
 1. 4번 메뉴 실행 화면 입니다.
    
-   <img width="424" alt="실전프로젝트_실행화면1" src="https://github.com/yeon38/Project1_JAVA_CRUD/assets/118957314/7dda0618-3fdb-4145-baee-9b74f72141b8">
+   
+<img width="424" alt="실전프로젝트_실행화면1" src="https://github.com/yeon38/Project1_JAVA_CRUD/assets/118957314/7dda0618-3fdb-4145-baee-9b74f72141b8">
+
+
 
 2. 1번 메뉴 실행 화면 입니다.
 
