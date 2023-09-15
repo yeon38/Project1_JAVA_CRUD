@@ -4,4 +4,33 @@
 1|pole|기둥
 1|formerly|이전에, 예전에
 1|transfer|옮기다, 이동하다
-1| apple|사과
+1|beautiful|아름다운, 멋진
+2|happy|행복한, 기쁜
+3|sad|슬픈, 우울한
+1|angry|화난, 분노한
+2|bright|밝은, 빛나는
+3|dark|어두운, 흐린
+1|sharp|날카로운, 예리한
+2|smooth|매끄러운, 부드러운
+3|heavy|무거운, 두터운
+1|light|가벼운, 밝은
+2|tall|키가 큰, 높은
+3|short|짧은, 키가 작은
+1|loud|크게 소리나는, 시끄러운
+2|quiet|조용한, 소리 없는
+3|strong|강한, 튼튼한
+1|weak|약한, 힘이 없는
+2|fast|빠른, 신속한
+3|slow|느린, 천천히 가는
+1|warm|따뜻한, 포근한
+2|cold|차가운, 냉큼한
+1|rough|거친, 투박한
+2|soft|부드러운, 말랑말랑한
+3|thin|얇은, 가느다란
+1|thick|두꺼운, 짙은
+2|clean|깨끗한, 청결한
+3|dirty|더러운, 더럽힌
+1|empty|빈, 공허한
+2|full|가득한, 충만한
+3|young|젊은, 어린
+1|old|늙은, 오래된
